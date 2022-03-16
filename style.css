@@ -396,6 +396,14 @@
  .teams .carousel .card:hover img{
      border-color: #fff;
  }
+ .teams .carousel .card a{
+     padding-top: 10px;
+     color: crimson;
+ }
+ .teams .carousel .card a:hover{
+     padding-top: 10px;
+     color: #fff;
+ }
  .owl-dots{
      text-align: center;
      margin-top: 20px;
